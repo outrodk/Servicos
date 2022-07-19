@@ -1,0 +1,2 @@
+INSERT INTO user VALUES(NULL, "jose@gmail.com", "$2a$10$nP6sEnXMozw61V8yiyCLcuPYTXX8z5FEeZoKowcq83qO74Jvu2BFe");
+
